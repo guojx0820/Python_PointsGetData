@@ -1,0 +1,4 @@
+	longitude	latitude
+Taiwan	120	20
+Zhejiang	120	29
+Fujian	118	25
